@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/shotashimura/typescript-for-javascript-developers#readme",
   "dependencies": {
+    "axios": "^0.19.2",
     "ts-node": "^8.10.2",
     "ts-node-dev": "^1.0.0-pre.51",
     "typescript": "^3.9.6"
