@@ -17,6 +17,6 @@ class Me {
 let me = new Me();
 //静的メンバへのアクセスはクラス名からのアクセス
 console.log(Me.isProgrammer); //true
-console.log(Me.work()); //hi!
+console.log(Me.work()); //hi! my name is Suzuki!
 //staticをつけ動的から静的に変わると、エラーになる
 // console.log(me.isProgrammer); //true
