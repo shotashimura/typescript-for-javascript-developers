@@ -1,6 +1,6 @@
 # typescript-for-javascript-developers
 
-##TypeScriptにおける様々な種類の型
+TypeScriptにおける様々な種類の型
 
 ```typescript:typeSumple.ts
 // 基本形
